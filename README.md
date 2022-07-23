@@ -1,3 +1,3 @@
-# Landing page de prestador(a) de serviço
+# Service provider landing page
 
-Criação de landing page para prestador(a) de serviço usando conceitos de flexbox, classes da biblioteca Bootstrap e scripts de animation on scroll (aos). 
+In this practice I created a landing page for a service provider using flexbox concepts, classes from the Bootstrap library and animation on scroll scripts (aos).
